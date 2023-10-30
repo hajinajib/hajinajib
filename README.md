@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @hajinajib
+- 👋 Hi, I’m Aji
 - 👀 I’m interested in Developing softwares
-- 🌱 I’m currently learning Web
+- 🌱 I’m currently working in Google.
 - 💞️ I’m looking to collaborate on developing softwares
 
 <!---
