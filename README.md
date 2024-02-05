@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Aji
+- 👋 Hi, I’m Hajinajib
 - 👀 I’m interested in Developing softwares
 - 🌱 I’m currently working in Google.
 - 💞️ I’m looking to collaborate on developing softwares
